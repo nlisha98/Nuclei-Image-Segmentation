@@ -150,3 +150,15 @@ Below are the details of the project:
   title="Loss"
   class = "center">
 </p>
+
+## Discussion
+From the TensorBoard Graph above, there are several ways on how to improve the model training process such as:
+<ul>
+  <li>Using Intersection over Union (IoU) </li>
+  <li>Try different learning rates</li>
+  <li>Try different batch sizes</li>
+  <li>Use of Keras’s ReduceLROnPlateau() to the learning rate</li>
+</ul>
+
+## Acknowledgement
+Special thanks to **(https://www.kaggle.com/competitions/data-science-bowl-2018/overview)** for the data source used for this project.
